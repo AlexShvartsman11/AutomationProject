@@ -5,4 +5,4 @@ Feature: Darksky timline is displayed in correct format
     Given I am on Darksky website homepage
 
   @hotel-search-1
-  Scenario: I verify timeline is displayed with two hours incremented
+  Scenario: I verify timeline is displayed with 2 hours incremented

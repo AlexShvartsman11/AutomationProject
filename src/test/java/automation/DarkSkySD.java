@@ -5,7 +5,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class DarkSkySD extends DriverWrapper {
-e
+
     PageElements locator = new PageElements ();
 
    @Given("^I am on Darksky website homepage$")

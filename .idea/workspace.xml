@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a5829ae-8e8c-4a0c-8960-275a00b11a3e" name="Default" comment="" />
+    <list default="true" id="3a5829ae-8e8c-4a0c-8960-275a00b11a3e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/automation/DarkSkySD.java" afterPath="$PROJECT_DIR$/src/test/java/automation/DarkSkySD.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/features/darksky.feature" afterPath="$PROJECT_DIR$/src/test/resources/features/darksky.feature" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="darksky.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="darksky.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/darksky.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="175">
+              <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -80,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DarkSkySD.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DarkSkySD.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/automation/DarkSkySD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="400">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,6 +96,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -105,11 +111,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/automation/DarkSkyHD.java" />
         <option value="$PROJECT_DIR$/src/test/java/automation/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/darksky.feature" />
         <option value="$PROJECT_DIR$/src/test/java/automation/DriverWrapper.java" />
         <option value="$PROJECT_DIR$/src/test/java/automation/PageFunctions.java" />
         <option value="$PROJECT_DIR$/src/test/java/automation/PageElements.java" />
         <option value="$PROJECT_DIR$/src/test/java/automation/DarkSkySD.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/darksky.feature" />
       </list>
     </option>
   </component>
@@ -119,6 +125,7 @@
     <option name="width" value="1288" />
     <option name="height" value="682" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -380,8 +387,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41942856" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42087156" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -412,14 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="294" column="20" lean-forward="false" selection-start-line="294" selection-start-column="20" selection-end-line="294" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/darksky.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -465,11 +464,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/automation/DarkSkySD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="400">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/darksky.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
